@@ -1,5 +1,8 @@
 # 🎸⌚ Proyecto en Java: **Guitarra & Reloj**
 
+## 🎸 ANTHONY JAVIER BARBOSA DELGADO
+## ⏰ DIEGO ARMANDO SALAMANCA
+
 Este proyecto en **Java** implementa dos clases basadas en dibujos:  
 - Una **Guitarra** 🎶  
 - Un **Reloj** ⏰  
